@@ -1,0 +1,29 @@
+/* how the website  */
+/* code {
+  property:value;
+} */
+
+/* px - pixels */
+/* % - percentage, adjust according to screensize*/
+
+img{
+  width:100%;
+  height: 400px;
+  object-fit: cover;
+  transition: 1s;
+} 
+
+img:hover{
+  height: 600px;
+  transition: 1s;
+}
+
+h1{
+  text-align: center;
+}
+
+body{
+  margin: 0px;
+  padding: 0px;
+  font-family: "Winky Sans", sans-serif;
+}
